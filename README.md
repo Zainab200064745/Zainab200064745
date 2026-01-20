@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi, I'm Zainab 👋
+Computer Science Graduate 
+Working with Python, data pipelines, and machine learning concepts
+UK  
+
+This GitHub contains my university projects and current experiments as I build and refine my technical direction.
+Currently building projects in:
+- Data Engineering
+- AI Workflows
+- Agentic AI
+- Privacy-Preserving AI
 
 <!--
 **Zainab200064745/Zainab200064745** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
